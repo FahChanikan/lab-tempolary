@@ -1,0 +1,139 @@
+$date
+   Wed Dec 24 16:35:24 2025
+$end
+$version
+  2019.2
+$end
+$timescale
+  1ps
+$end
+$scope module minority_tb $end
+$var reg 1 ! a $end
+$var reg 1 " b $end
+$var reg 1 # c $end
+$var reg 1 $ y $end
+$var reg 1 % expected_y $end
+$scope module dut $end
+$var wire 1 & a $end
+$var wire 1 ' b $end
+$var wire 1 ( c $end
+$var reg 1 $ y $end
+$upscope $end
+$scope begin Block37_1 $end
+$var reg 32 ) i $end
+$upscope $end
+$scope function calc_expected $end
+$var reg 1 * calc_expected $end
+$var reg 1 + a $end
+$var reg 1 , b $end
+$var reg 1 - c $end
+$var reg 32 . false_count $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0!
+0"
+0#
+1$
+1%
+0&
+0'
+0(
+b0 )
+1*
+0+
+0,
+0-
+b11 .
+$end
+#10000
+0!
+1#
+1$
+1(
+1-
+b101 .
+#20000
+0!
+1"
+0#
+1$
+1'
+0(
+1,
+0-
+b111 .
+#30000
+0!
+1#
+0$
+1(
+1-
+b1000 .
+#40000
+1!
+0"
+0#
+1$
+1&
+0'
+0(
+1+
+0,
+0-
+b1010 .
+#50000
+1!
+1#
+0$
+1(
+1-
+b1011 .
+#60000
+1!
+1"
+0#
+0$
+1'
+0(
+1,
+0-
+b1100 .
+#70000
+1!
+1#
+0$
+1(
+1-
+#80000
+0!
+0"
+0#
+1$
+0&
+0'
+0(
+b1000 )
+#90000
+1!
+1"
+1#
+0$
+1&
+1'
+1(
+0+
+0,
+0-
+b1111 .
+#100000
+0!
+0#
+1$
+0&
+0(
+1+
+1,
+1-

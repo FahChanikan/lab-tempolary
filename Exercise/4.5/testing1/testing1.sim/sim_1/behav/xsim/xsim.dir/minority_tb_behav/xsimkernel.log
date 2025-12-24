@@ -1,0 +1,4 @@
+Running: xsim.dir/minority_tb_behav/xsimk.exe -simmode gui -wdb minority_tb_behav.wdb -simrunnum 0 -socket 58676
+Design successfully loaded
+Design Loading Memory Usage: 5796 KB (Peak: 5796 KB)
+Design Loading CPU Usage: 46 ms
