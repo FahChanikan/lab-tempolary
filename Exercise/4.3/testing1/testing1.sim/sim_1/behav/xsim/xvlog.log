@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "E:/fah/Exercise/4.3/4.3.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module four_input_xor
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "E:/fah/Exercise/4.3/design.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module four_input_xor_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/fah/Exercise/4.3/testing1/testing1.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
