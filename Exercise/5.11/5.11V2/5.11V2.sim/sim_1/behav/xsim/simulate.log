@@ -1,0 +1,16 @@
+Time resolution is 1 ps
+------Test 1 : AND --------
+We got 0000
+------Test 2 : OR --------
+We got 1111
+------Test 3 : ADD --------
+We got 10+5 =15
+------Test 4 : SUB --------
+We got 10-5 =5
+------Test 5 : Zero Flag --------
+We got 8-8 = 0
+------Test 6 : Negative Value --------
+We got 5-10 = -5
+------Test 7 : Large Value --------
+We got 1000000 + 2000000 = 3000000
+$finish called at time : 80 ns : File "E:/VivadoLab/lab-tempolary/Exercise/5.11/simulation.sv" Line 92

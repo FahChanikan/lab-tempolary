@@ -7,6 +7,7 @@ Starting static elaboration
 Pass Through NonSizing Optimizer
 Completed static elaboration
 Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "E:/VivadoLab/lab-tempolary/Exercise/5.11/simulation.sv" Line 1. Module alu_simple_tb doesn't have a timescale but at least one module in design has a timescale.
 WARNING: [XSIM 43-4099] "E:/VivadoLab/lab-tempolary/Exercise/5.11/testbench.sv" Line 1. Module alu_simple doesn't have a timescale but at least one module in design has a timescale.
 Completed simulation data flow analysis
 Time Resolution for simulation is 1ps

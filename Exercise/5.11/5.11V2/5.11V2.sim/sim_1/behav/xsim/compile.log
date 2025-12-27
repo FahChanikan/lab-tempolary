@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "E:/VivadoLab/lab-tempolary/Exercise/5.11/testbench.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module alu_simple
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "E:/VivadoLab/lab-tempolary/Exercise/5.11/simulation.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module alu_simple_tb
