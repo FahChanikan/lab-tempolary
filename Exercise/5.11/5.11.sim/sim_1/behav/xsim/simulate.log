@@ -1,0 +1,9 @@
+Time resolution is 1 ps
+ time   ALUControl   A         B         Result    Zero
+                   0   00                 0            0            0   1
+               10000   10                10            5           15   0
+               20000   11                10            5            5   0
+               30000   00                10            5            0   1
+               40000   01                10            5           15   0
+               50000   11                 8            8            0   1
+$finish called at time : 60 ns : File "E:/VivadoLab/lab-tempolary/Exercise/5.11/alu_simple_tb.sv" Line 61
