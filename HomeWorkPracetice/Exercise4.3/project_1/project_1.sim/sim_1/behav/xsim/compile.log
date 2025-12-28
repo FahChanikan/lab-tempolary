@@ -1,0 +1,7 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "E:/VivadoLab/lab-tempolary/HomeWorkPracetice/Exercise4.3/testbench.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module xor4
+WARNING: [VRFC 10-2502] extra semicolon in $unit (global) scope [E:/VivadoLab/lab-tempolary/HomeWorkPracetice/Exercise4.3/testbench.sv:8]
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "E:/VivadoLab/lab-tempolary/HomeWorkPracetice/Exercise4.3/xor4_tb.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module xor4_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/VivadoLab/lab-tempolary/HomeWorkPracetice/Exercise4.3/project_1/project_1.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

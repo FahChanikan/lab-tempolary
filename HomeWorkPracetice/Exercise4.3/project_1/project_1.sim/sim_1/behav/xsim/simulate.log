@@ -1,0 +1,4 @@
+Time resolution is 1 ps
+Time	 a[3:0]	 y
+finish
+$finish called at time : 160 ns : File "E:/VivadoLab/lab-tempolary/HomeWorkPracetice/Exercise4.3/xor4_tb.sv" Line 34
