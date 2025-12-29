@@ -25,14 +25,14 @@ initial begin
     //Iniatial Value
     A = 32'd0;
     B = 32'd0;
-    ALUControl = 2'b00;
+    ALUControl = 2'b10;
     #10;
 
     //Test 1: AND
     $display("------Test 1 : AND --------");
     A = 32'd10;
     B = 32'd05;
-    ALUControl = 2'b00;
+    ALUControl = 2'b10;
     #10;
 
     $display("We got 0000");
@@ -41,7 +41,7 @@ initial begin
     $display("------Test 2 : OR --------");
     A = 32'd10;
     B = 32'd05;
-    ALUControl = 2'b01;
+    ALUControl = 2'b11;
     #10;
     $display("We got 1111");
 
@@ -49,7 +49,7 @@ initial begin
     $display("------Test 3 : ADD --------");
     A = 32'd10;
     B = 32'd05;
-    ALUControl = 2'b10;
+    ALUControl = 2'b00;
     #10;
 
     $display("We got 10+5 =15");
@@ -58,7 +58,7 @@ initial begin
     $display("------Test 4 : SUB --------");
     A = 32'd10;
     B = 32'd05;
-    ALUControl = 2'b11;
+    ALUControl = 2'b01;
     #10;
 
     $display("We got 10-5 =5");
@@ -67,7 +67,7 @@ initial begin
     $display("------Test 5 : Zero Flag --------");
     A = 32'd08;
     B = 32'd08;
-    ALUControl = 2'b11;
+    ALUControl = 2'b01;
     #10;
 
     $display("We got 8-8 = 0");
@@ -76,7 +76,7 @@ initial begin
     $display("------Test 6 : Negative Value --------");
     A = 32'd05;
     B = 32'd10;
-    ALUControl = 2'b11;
+    ALUControl = 2'b01;
     #10;
 
     $display("We got 5-10 = -5");
@@ -85,7 +85,7 @@ initial begin
     $display("------Test 7 : Large Value --------");
     A = 32'd1000000;
     B = 32'd2000000;
-    ALUControl = 2'b10;
+    ALUControl = 2'b00;
     #10;
 
     $display("We got 1000000 + 2000000 = 3000000");

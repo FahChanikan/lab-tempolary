@@ -14,10 +14,10 @@ reg [31:0] ALUResult;
 always @(*) begin //working everytime when A B or ALUControl are changed
 
     case(ALUControl)
-        2'b00: ALUResult = A & B; //AND
-        2'b01: ALUResult = A | B; //or
-        2'b10: ALUResult = A + B; //ADD
-        2'b11: ALUResult = A - B; //SUB
+        2'b00: ALUResult = A + B; 
+        2'b01: ALUResult = A - B; 
+        2'b10: ALUResult = A & B; 
+        2'b11: ALUResult = A | B; 
     endcase
 end
 //part 3: output
