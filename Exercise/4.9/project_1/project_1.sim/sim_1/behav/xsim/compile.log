@@ -1,0 +1,7 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "E:/lab-tempolary/Exercise/4.9/assign2.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux8
+INFO: [VRFC 10-311] analyzing module exercise_4_9
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "E:/lab-tempolary/Exercise/4.9/verilog2.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_exercise_4_9
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/lab-tempolary/Exercise/4.9/project_1/project_1.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

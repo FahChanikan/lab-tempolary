@@ -1,0 +1,17 @@
+Vivado Simulator 2019.2
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: D:/Program64/Vivado/2019.2/bin/unwrapped/win64.o/xelab.exe -wto 0e4e1bc355ee4c98963b03079f4ba2bb --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot tb_exercise_4_9_behav xil_defaultlib.tb_exercise_4_9 xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "E:/lab-tempolary/Exercise/4.9/assign2.sv" Line 12. Module exercise_4_9 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "E:/lab-tempolary/Exercise/4.9/assign2.sv" Line 2. Module mux8 doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.mux8
+Compiling module xil_defaultlib.exercise_4_9
+Compiling module xil_defaultlib.tb_exercise_4_9
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_exercise_4_9_behav

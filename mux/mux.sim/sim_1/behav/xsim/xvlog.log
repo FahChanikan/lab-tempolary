@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "E:/lab-tempolary/Multiplexer/mux.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux
+ERROR: [VRFC 10-2989] 'Y' is not declared [E:/lab-tempolary/Multiplexer/mux.sv:10]
+ERROR: [VRFC 10-2989] 'Y' is not declared [E:/lab-tempolary/Multiplexer/mux.sv:12]
+ERROR: [VRFC 10-2865] module 'mux' ignored due to previous errors [E:/lab-tempolary/Multiplexer/mux.sv:1]
