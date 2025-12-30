@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "E:/VivadoLab/lab-tempolary/Exercise/4.15/hdl_a.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module boolean_a
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "E:/VivadoLab/lab-tempolary/Exercise/4.15/test_a.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module boolean_a_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/VivadoLab/lab-tempolary/Exercise/4.15/project_a/project_a.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
