@@ -2,3 +2,6 @@ Running: xsim.dir/decorder_2to4_tb_behav/xsimk.exe -simmode gui -wdb decorder_2t
 Design successfully loaded
 Design Loading Memory Usage: 10788 KB (Peak: 10788 KB)
 Design Loading CPU Usage: 15 ms
+Simulation completed
+Simulation Memory Usage: 12276 KB (Peak: 12276 KB)
+Simulation CPU Usage: 61 ms
